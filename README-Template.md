@@ -28,7 +28,7 @@ npx create-react-app my-app
 cd my-app
 npm start
 ```
-go through the files created and replace them with files in the frontend folder
+go through the files created and replace the src files with the files in the frontend folder
 
 Minimum reqirements of installing springboot are
 
